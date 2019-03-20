@@ -1,4 +1,4 @@
-# task-creater
+# task-creater-app
 Simple task creater app using ReactJs and Redux
 ## Description
 A simple react application using react-redux architecture for task creater. app contains Task creater and Task view.
